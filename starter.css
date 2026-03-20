@@ -13,7 +13,7 @@
     font-size: 16px;
     /* TODO 1: Add three (3) CSS variables representing colors to this rule */
     --purple: #b707f7;
-    --white: #38de1e;
+    --green: #38de1e;
     --blue: #1656ad;
 }
 
@@ -22,7 +22,7 @@
     color: var(--purple);
 }
 .colortwo{
-    color: var(--white);
+    color: var(--green);
 }
 .colorthree{
     color: var(--blue);
