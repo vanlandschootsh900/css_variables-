@@ -1,0 +1,28 @@
+/* First and last name */
+/* Current date */
+/* CSS Variables Intro */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    /* TODO 1: Add three (3) CSS variables representing colors to this rule */
+}
+
+/* TODO 2: Define three separate CSS classes; use a different CSS variable for each class */
+
+/* TODO 3: Apply a separate CSS class to each of the h3 elements in your web page */
+
+/* TODO 4: Show your finished page and style sheet to your teacher */
+
+
+
+
+
+
+
